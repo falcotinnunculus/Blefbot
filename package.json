@@ -1,0 +1,10 @@
+{
+ "name": "Blefbot.js",
+ "version": "1.0.0",
+ "description": "Gra w Blefa.",
+ "main": "bot.js",
+ "author": "Mateusz Winiarski",
+ "dependencies": {
+  "discord.js": "^12.2.0"
+ }
+}
